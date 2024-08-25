@@ -18,7 +18,7 @@ ABC Company is developing IoT systems in their main warehouse. The objective is 
 
 <p align="center">
 Connecting Devices to build IoT System: <br/>
-<img src="https://i.imgur.com/k5u0md3.png" height="60%" width="60%" alt="Packet Tracer"/>
+<img src="https://i.imgur.com/k5u0md3.png" height="80%" width="80%" alt="Packet Tracer"/>
 <br />
 <br />
 
