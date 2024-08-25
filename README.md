@@ -1,7 +1,7 @@
 <h1>Securing Cloud Services in the IoT</h1>
 
 <h2>Description</h2>
-ABC Compnay is developing IoT systems in their main warehouse. The objective is to deploy some physical security devices around the warehouse so that, when the warehouse is closed, these devices will monitor the doors and windows. When an intruder is detected, the lights are turned on and web cameras will start recording.
+ABC Company is developing IoT systems in their main warehouse. The objective is to deploy some physical security devices around the warehouse so that, when the warehouse is closed, these devices will monitor the doors and windows. When an intruder is detected, the lights are turned on and web cameras will start recording.
 <br />
 
 
